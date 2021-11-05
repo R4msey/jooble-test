@@ -1,0 +1,17 @@
+.typography {
+  font-size: 2vw;
+  font-weight: 700;
+}
+
+.linkText {
+  color: #1451fe;
+  font-weight: 600;
+  font-size: 16px;
+  margin-right: 50px;
+  margin-bottom: 8px;
+}
+.linkText:hover {
+  cursor: pointer;
+  outline: firebrick;
+  text-decoration: underline;
+}
